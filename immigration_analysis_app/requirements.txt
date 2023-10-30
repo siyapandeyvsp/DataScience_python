@@ -1,8 +1,8 @@
+streamlit
 pandas
 numpy
-scipy
+openpyxl
 matplotlib
 plotly
 seaborn
 nbformat
-openpyxl
