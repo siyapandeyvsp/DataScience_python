@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 opencv-contrib-python # for maths on video img using camera
 pillow #maths on imags
 mediapipe #face detection hand detection 
 #pi audio pi sound librosa for audio
+=======
+opencv-contrib-python
+pillow
+mediapipe
+>>>>>>> 85a4da63c9b54f19ef7418dfd9f7f6b558dbdde6

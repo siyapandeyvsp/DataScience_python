@@ -2,7 +2,14 @@ streamlit
 pandas
 numpy
 openpyxl
+<<<<<<< HEAD
 matplotlib
 plotly
 seaborn
 nbformat
+=======
+plotly
+nbformat
+matplotlib
+seaborn
+>>>>>>> 85a4da63c9b54f19ef7418dfd9f7f6b558dbdde6

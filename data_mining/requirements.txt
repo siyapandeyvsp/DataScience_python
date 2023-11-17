@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 requests   #to fetch data from webpae
 beautifulsoup4 # to search content from tags
 lxml  # help beautiful sou[ tag and text css differenciate 
 html5lib #detect html tags and text
 dputils # open source library of digipodium
 #we act as a client tot extract data 
+=======
+requests
+beautifulsoup4
+lxml
+html5lib
+dputils
+>>>>>>> 85a4da63c9b54f19ef7418dfd9f7f6b558dbdde6
